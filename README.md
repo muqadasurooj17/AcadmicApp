@@ -2,7 +2,7 @@ I have created this website as my first react web project some of the features a
 
 1)Stores the data in the real-time database in firebase. 
 
-2)Responsive Web development.
+2)Responsive Web development....
 
 3)Smooth scrolling by reactScroll
 
